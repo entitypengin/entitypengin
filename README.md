@@ -1,3 +1,3 @@
 # EntityPENGIN
 
-Learning English
+Japanese / English / Python / C#
