@@ -1,3 +1,3 @@
-# EntityPENGIN
+# Entity
 
 Japanese / English / Python / C#
